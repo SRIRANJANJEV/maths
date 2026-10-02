@@ -1,0 +1,6 @@
+{
+  "name": "Data Analysis Machine",
+  "description": "Interactive Statistics & Data Analysis System by Sarvika M S for Mathematics Exhibition",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
